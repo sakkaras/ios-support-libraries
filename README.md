@@ -70,6 +70,12 @@ This document will be used to contain *links to specialised iOS libraries* coded
 
 - [Cocos2D](https://github.com/cocos2d/cocos2d-objc)
 
+#### PATTERN
+
+#### Flow
+
+- [FlowController](https://github.com/waynehartman/FlowController)
+
 #### SAMPLE
 
 #### Projects
